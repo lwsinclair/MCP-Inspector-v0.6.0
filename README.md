@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jehan26-mcp-inspector-v0-6-0-badge.png)](https://mseep.ai/app/jehan26-mcp-inspector-v0-6-0)
+
 # MCP-Inspector-v0.6.0
 # GitHub MCP Server
 
